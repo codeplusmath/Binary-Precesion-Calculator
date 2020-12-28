@@ -1,4 +1,4 @@
-# Binary-Precesion-Calculator
+# Binary-Precesion-Calculator 📅
 ---
 
 # Discreption:
