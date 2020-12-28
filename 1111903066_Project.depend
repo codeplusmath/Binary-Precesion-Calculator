@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1604824252 e:\book\dsa\dsa_project\1111903066_project\list.h
+	<math.h>
+
+1604824235 source:e:\book\dsa\dsa_project\1111903066_project\list.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"list.h"
+	"stack.h"
+
+1604824494 e:\book\dsa\dsa_project\1111903066_project\stack.h
+	"list.h"
+
+1604824359 source:e:\book\dsa\dsa_project\1111903066_project\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"list.h"
+
+1604830420 source:e:\book\dsa\dsa_project\1111903066_project\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stack.h"
+	"list.h"
+	"number.h"
+
+1604824466 e:\book\dsa\dsa_project\1111903066_project\number.h
+	<math.h>
+	"list.h"
+
+1604824427 source:e:\book\dsa\dsa_project\1111903066_project\number.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"list.h"
+	"number.h"
+	"stack.h"
+
